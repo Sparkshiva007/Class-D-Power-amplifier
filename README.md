@@ -1,4 +1,4 @@
-# ⚡ Class D Amplifier using TLC555, LM393, and IR2113
+# Class D Amplifier using TLC555, LM393, and IR2113
 
 This repository contains a **high-efficiency Class D Power Amplifier** circuit that uses **PWM modulation** and **MOSFET switching** for clean, powerful, and efficient audio amplification.
 
